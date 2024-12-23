@@ -26,7 +26,7 @@
 > 
 > * Click generate keypair, download, and backup them all
 >
-> * The file contain your kadena wallet address (mark as public), and private key (mark as secret) *OPEN IT WITH NOTEPAD*
+> * The file contain your kadena wallet address (mark as public), and private key (mark as secret) **OPEN IT WITH NOTEPAD!!!**
 > * Install [eckoWallet](https://chromewebstore.google.com/detail/eckowallet/bofddndhbegljegmpmnlbhcejofmjgbn)
 > * Make a new wallet and Import your generated keypair to eckoWallet
 >
