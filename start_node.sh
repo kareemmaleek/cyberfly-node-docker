@@ -48,6 +48,9 @@ function install_linux_docker(){
 		sudo apt-get update -y  > /dev/null 2>&1
 		sudo apt-get install docker-ce docker-ce-cli containerd.io -y > /dev/null 2>&1
 	fi
+ 	sudo curl -L "https://github.com/docker/compose/releases/download/v2.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+	sudo chmod +x /usr/local/bin/docker-compose
+ 
 	echo -e "====================================================="
 	echo -e "Running through some checks..."
 	echo -e "====================================================="
