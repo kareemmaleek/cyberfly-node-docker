@@ -31,7 +31,14 @@
 > * Make a new wallet and Import your generated keypair to eckoWallet
 >
 > Step 2: The Beginning
+> 
 >   * git clone https://github.com/kareemmaleek/cyberfly-node-docker.git
 >   * cd cyberfly-node-docker
 >   * sudo chmod +x start_node.sh
 >   * sudo ./start_node.sh k:your_kadena_wallet_address node_priv_key
+>
+> Step 3: Do Task! (Daily Task)
+> 
+>   * Visit http://<<YOUR SERVER IP>>:31000, Claim Faucet on Faucet menu
+>   * Stake on My Node menu
+>   * Done!
