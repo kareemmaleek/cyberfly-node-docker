@@ -39,6 +39,6 @@
 >
 > Step 3: Do Task! (Daily Task)
 > 
->   * Visit http://<<YOUR SERVER IP>>:31000, Claim Faucet on Faucet menu
+>   * Visit http://<<YOUR-SERVER-IP>>:31000, Claim Faucet on Faucet menu
 >   * Stake on My Node menu
 >   * Done!
