@@ -37,7 +37,7 @@
 >   * sudo chmod +x start_node.sh
 >   * sudo ./start_node.sh k:your_kadena_wallet_address node_priv_key
 >
-> Step 3: Do Task! (Daily Task)
+> Step 3: Do Task!
 > 
 >   * Visit http://YOURSERVER-IP:31000, Claim Faucet on Faucet menu
 >   * Stake on My Node menu
